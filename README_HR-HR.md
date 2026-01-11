@@ -13,7 +13,7 @@ Fotografirao Robert Sedak
 Pozor:
 ------------
 Kako bi se program u cijelosti mogao izvršiti, na ATtiny pin RESET moramo deklarirati kao ulazno/izlazni pin. To se postiže aktiviranjem FUSE bita s nazivom RSTDISBL. Ukoliko nakon toga želimo ponovno programirati ATtiny, moramo isključiti FUSE bit s nazivom RSTDISBL pomoću tehnike programiranja pomoću visokog napona (12V).
-Postupak programiranja FUSE bitova i tehniku programiranja pomoću visokog napona potražite u stručnoj literaturi. Novostećena znanja koristite tek kada potpuno razumijete što morate napraviti. U suptornom možete oštetiti mikroupravljač.
+Postupak programiranja FUSE bitova i tehniku programiranja pomoću visokog napona potražite u stručnoj literaturi. Novostećena znanja koristite tek kada potpuno razumijete što morate napraviti. U suprotnom možete oštetiti mikroupravljač.
 
 
 Autor
